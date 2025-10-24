@@ -155,10 +155,6 @@ Base URL: `http://localhost:8000/api/`
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - React.js team for the amazing frontend framework
